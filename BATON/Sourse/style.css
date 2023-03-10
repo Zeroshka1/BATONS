@@ -3,13 +3,13 @@ body{
 }
 .button{
     border: 5px;
-    font-size: 20px;
+    font-size: 128PX;
     margin: 5px;
 }
 
 .photo{
-    width: 16px;
-    height: 16px;
+    width: 100PX;
+    height: 100PX;
     margin-left: 1px;
 }
 
